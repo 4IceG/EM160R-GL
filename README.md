@@ -12,6 +12,8 @@
 
 <a href="https://drive.google.com/file/d/1lykgSyTgujPq2FGuIkseaZRKLWb9TNHw/view?usp=sharing" title="EM160RGLAUR02A07M4G_BETA0923.zip">EM160RGLAUR02A07M4G_BETA0923.zip</a>
 
+<a href="https://drive.google.com/file/d/13qXmtre-hUNVhtNLfbZWVoA9UU6kPvlI/view?usp=sharing" title="EM160RGLAUR02A09M4G.zip">EM160RGLAUR02A09M4G.zip</a>
+
 <a href="https://drive.google.com/file/d/1da5BUm_xdqvLxfGqeSKFooC6uOCNYrV5/view?usp=sharing" title="EM160RGLAUR02A07M4G.zip">EM160RGLAUR02A07M4G.zip</a>
 
 <a href="https://drive.google.com/file/d/14zAwLN3_-vdQIa9aHz3flopmDvegrmpH/view?usp=sharing" title="EM160RGLAUR02A05M4G.zip">EM160RGLAUR02A05M4G.zip</a>
