@@ -10,6 +10,9 @@
 <a href="https://drive.google.com/file/d/1Gx1Ab5uLSAOaIlWzKHS17qE3Wo9hVQ7i/view?usp=sharing" title="Qnavigator_V1.6.10">Qnavigator_V1.6.10</a>
 
 ## Firmware:
+
+<a href="https://drive.google.com/file/d/13SprprAkRA-lfd3gP_Z0UJW6ayX43Lky/view?usp=share_link" title="EM160RGLAUR02A10M4G.zip">EM160RGLAUR02A10M4G.zip</a>
+
 <a href="https://drive.google.com/file/d/13qXmtre-hUNVhtNLfbZWVoA9UU6kPvlI/view?usp=sharing" title="EM160RGLAUR02A09M4G.zip">EM160RGLAUR02A09M4G.zip</a>
 
 <a href="https://drive.google.com/file/d/1yKcvtTPK4itVz4uHIVWBkC1cARsULcNm/view?usp=sharing" title="EM160RGLAUR02A08M4G.zip">EM160RGLAUR02A08M4G.zip</a>
