@@ -2,7 +2,7 @@
 
 ## Toolz:
 <details>
-   <summary>Stock | Show me</summary>
+   <summary>Windows | Show me</summary>
 
 <a href="https://drive.google.com/file/d/1z-ZPvb3Uh9V_uFDk8V3xW2ztFhnZPBgn/view?usp=sharing" title="Quectel_LTE_5G_Windows_USB_Driver_V2.2.4">Quectel_LTE_5G_Windows_USB_Driver_V2.2.4</a>
 
